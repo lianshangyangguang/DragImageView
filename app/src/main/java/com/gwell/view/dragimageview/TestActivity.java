@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.ViewTreeObserver;
 
-import com.gwell.view.library.DragImageView;
+import com.gwell.imageview.library.DragImageView;
 
 public class TestActivity extends AppCompatActivity {
 
