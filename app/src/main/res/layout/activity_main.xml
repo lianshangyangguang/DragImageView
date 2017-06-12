@@ -4,11 +4,13 @@
     android:layout_height="match_parent"
     >
         <ImageView
+            android:layout_marginLeft="20dp"
             android:layout_gravity="center_vertical"
             android:id="@+id/imageView"
-            android:layout_height="50dp"
-            android:layout_width="50dp"
+            android:layout_height="65dp"
+            android:layout_width="65dp"
             android:onClick="onClick"
+            android:scaleType="fitXY"
             android:src="@drawable/wugeng"
             ></ImageView>
 </LinearLayout>
