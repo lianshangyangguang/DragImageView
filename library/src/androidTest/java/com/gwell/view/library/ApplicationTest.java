@@ -1,4 +1,4 @@
-package com.gwell.view.library;
+package com.gwell.imageview.library;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
